@@ -31,3 +31,21 @@ body {
 .news-img {
     width: 60vw !important;
 }
+
+
+.container {
+
+    display: flex;
+    justify-content: right;
+
+}
+
+.columna1 {
+    background-color:black;
+    padding-right: 25px;
+}
+
+.columna2 {
+    background-color: azure;
+    padding-right: 25px;
+}
